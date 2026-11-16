@@ -12,7 +12,6 @@ https://www.tuslibrosvip.com/catalogo-libros-csv
 
 ## Archivos / Files
 
-- `Todos-los-libros-de-tuslibrosvip-com.csv`: catálogo completo (UTF-8, separado por comas, primera fila de cabecera).
 - `Todos-los-libros-de-tuslibrosvip-com.csv.gz`: la misma información comprimida.
 
 ## Campos / Fields
