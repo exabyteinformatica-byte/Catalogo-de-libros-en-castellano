@@ -33,7 +33,7 @@ https://www.tuslibrosvip.com/catalogo-libros-csv
 ```python
 import pandas as pd
 
-df = pd.read_csv("Todos-los-libros-de-tuslibrosvip-com.csv")
+df = pd.read_csv("Todos-los-libros-de-tuslibrosvip-com.csv.gz")
 print(df.shape)
 print(df["categoria"].value_counts().head(10))
 ```
