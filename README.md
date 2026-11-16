@@ -50,8 +50,7 @@ print(df["categoria"].value_counts().head(10))
 [Creative Commons Atribución 4.0 (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/).
 Puedes usarlo, copiarlo y modificarlo, incluso con fines comerciales, citando la fuente.
 
-Cita como: "Fuente: tuslibrosvip.com, Catálogo de libros en CSV ([fecha])",
-con enlace a https://www.tuslibrosvip.com/catalogo-libros-csv
+Cita como: "Fuente: tuslibrosvip.com, Catálogo de libros en CSV (16 de noviembre de 2026)", con enlace a https://www.tuslibrosvip.com/catalogo-libros-csv
 
 ## Limitaciones / Limitations
 
